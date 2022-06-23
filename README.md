@@ -1,5 +1,5 @@
 
 # El TP de hibernate
 
-Fait pas Najib Sofiane & Aaron
+Fait par Najib Sofiane & Aaron
 
